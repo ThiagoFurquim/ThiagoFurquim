@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago</h1>
-- 🌱 estou aprendendo <b>Node e C#</b>
+- 🌱 estou aprendendo <b>Node JS</b>
 
 <!--
 <h3 align="left">Connect with me:</h3>
